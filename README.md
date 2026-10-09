@@ -1,5 +1,5 @@
 # AcceleratedSignedDigitLoading
-This repository contains all the code required to replicate the research on Accelerated Signed Digit Loading
+This repository contains the function written in pytorch for applying Accelerated Signed Digit Loading to a batch of vectors
 
 
 ## Create environment
